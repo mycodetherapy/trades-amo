@@ -91,7 +91,7 @@ const App: React.FC = () => {
               <TableRow>
                 <TableCell>Название сделки</TableCell>
                 <TableCell>Ответственный</TableCell>
-                <TableCell>Контакта</TableCell>
+                <TableCell>Контакт</TableCell>
                 <TableCell>Компания контакта</TableCell>
                 <TableCell>Этап Сделки</TableCell>
                 <TableCell>Бюджет</TableCell>
